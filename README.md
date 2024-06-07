@@ -22,7 +22,6 @@ A cutting-edge resume builder that helps job seekers create a professional, ATS-
 - [Social Media](#social-media)
 - [Summary](#summary)
 - [Education](#education)
-- [Work Experience](#work-experience)
 - [Projects](#projects)
 - [Technical Skills](#technical-skills)
 - [Soft Skills](#soft-skills)
@@ -53,14 +52,10 @@ A cutting-edge resume builder that helps job seekers create a professional, ATS-
 - Start Date
 - End Date
 
-## Work Experience
+## Career Objective
 
-- Company
-- Designation
-- Description
-- Key Achievements
-- Start Date
-- End Date
+- career Objective
+
 
 Description optional
 
@@ -86,9 +81,11 @@ Description optional
 
 - Languages
 
-## Additional Skills
+## Achivements
 
-- Additional Skills
+- Achivement1
+- Achivement2
+- Achivement3
 
 ## Certifications
 
